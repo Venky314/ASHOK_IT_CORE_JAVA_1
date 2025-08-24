@@ -10,10 +10,10 @@ public class Reverse {
 
         int Lenthofname=name.length();
 
-        String emptyString ="";
+        String emptyString = "";
 
         for (int i=0;i<Lenthofname;i++){
-            emptyString+=name.charAt(Lenthofname-i-1);
+            emptyString += name.charAt(Lenthofname - i - 1);
 
         }
         System.out.println("this Reverse string:---"+emptyString);
