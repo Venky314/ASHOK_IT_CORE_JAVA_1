@@ -16,7 +16,7 @@ public class Reverse {
             emptyString+=name.charAt(Lenthofname-i-1);
 
         }
-        System.out.println("this is the reverse string:--- "+emptyString);
+        System.out.println("this Reverse string:---"+emptyString);
 
     }
 }
